@@ -2,5 +2,5 @@
 
 **Dashboard - Previsão do Tempo**
 
-https://github.com/user-attachments/assets/590f7d58-7896-464b-8936-f4e116921957
+https://github.com/user-attachments/assets/c5f2289f-2d42-4b0f-a36d-304a6ed9470c
 
