@@ -10,3 +10,5 @@ Estrutura e base de dados:
 - Temperatura média diária semanal
 - Variáveis meteorológicas
 - Índices de qualidade do ar
+
+Os dados são atualizados diariamente, de acordo com a funcionalidade da API.
