@@ -11,7 +11,9 @@ Estrutura e base de dados:
 - Temperatura atual no dia
 - Temperatura média diária semanal
 - Variáveis meteorológicas
-- Índices de qualidade do ar
+- Previsão de chuva semanal
+- Horário do nascer e pôr do sol
+- Principais índices de qualidade do ar
 
 Os dados são atualizados diariamente, de acordo com a funcionalidade da API.
 As localidades podem ser expandidas de acordo com a necessidade do usuário.
