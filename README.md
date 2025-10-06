@@ -17,3 +17,5 @@ Estrutura e base de dados:
 
 Os dados são atualizados diariamente, de acordo com a funcionalidade da API.
 As localidades podem ser expandidas de acordo com a necessidade do usuário.
+
+-----------------------------------------------------------------------------
