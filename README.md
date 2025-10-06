@@ -19,3 +19,8 @@ Os dados são atualizados diariamente, de acordo com a funcionalidade da API.
 As localidades podem ser expandidas de acordo com a necessidade do usuário.
 
 -----------------------------------------------------------------------------
+**Dashboard - Sample Financials**
+
+Dashborad desenvolvido com os dados da sample "financials.xlsx" do Power Bi
+
+<img width="1188" height="1334" alt="financials" src="https://github.com/user-attachments/assets/6ea0e49e-e692-48cd-b4b4-101c18d5be61" />
