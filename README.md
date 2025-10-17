@@ -34,6 +34,7 @@ Dashboard desenvolvido com dados de vendas globais, categorizados por segimento 
 
 -----------------------------------------------------------------------------
 **Dashboard - Vendas, Custos e KPI**
+
 Dashboard desenvolvido com planilhas de clientes, vendas, pedidos e produtos visando obter experiência com relacionamento de dados e obter informações
 
 ![painel](https://github.com/user-attachments/assets/9180f675-83fb-40ee-b5b3-35be80e1f226)
